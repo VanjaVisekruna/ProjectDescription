@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('ball_hintergrund_echt.jpg');
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2 {
+  font-size: 40px;
+  display: block;
+
+  padding-left: 10px;
+  padding-top: 20px;
+
+  margin-bottom: 0em;
+
+  text-align: center;
+}
+
+h4 {
+  font-size: 20px;
+  display: block;
+  font-weight: bold;
+
+  padding-left: 10px;
+  padding-top: 10px;
+
+  margin-bottom: 0em;
+
+  text-align: center;
+}
+
+h5 {
+  font-size: 22px;
+  display: block;
+
+  padding-left: 15px;
+  padding-top: 10px;
+
+  margin-bottom: 0em;
+}
+
+p {
+  font-size: 17px;
+  display: block;
+
+  font-weight: bold;
+
+  padding-left: 30px;
+  padding-top: 10px;
+
+  margin-bottom: 0em;
+}
+
+
+
+.bar {
+  margin: -8px;
+  width: 100vw;
+  height: 60.2px;
+  background-color: lightgrey;
+  display: inline-block;
+}
+
+.barListF {
+  list-style-type: none;
+  padding-left: 125px;
+}
+
+.barListS {
+  list-style-type: none;
+  padding-left: 420px;
+}
+
+.barListB {
+  list-style-type: none;
+  padding-left: 720px;
+}
+
+.barListT {
+  list-style-type: none;
+  padding-left: 1035px;
+}
+
+.barListSki {
+  list-style-type: none;
+  padding-left: 1335px;
+}
+
+
+
+.barItemFootball {
+  color: black;
+  font-weight: bold;
+  font-family: Arial;
+  text-decoration: none;
+  display: inline;
+  float: left;
+  padding: 110;
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.barItem {
+  color: black;
+  font-weight: bold;
+  font-family: Arial;
+  text-decoration: none;
+  display: inline;
+  float: left;
+  padding: 180;
+  margin-top: 7px;
+  font-size: 17px;
+}
+
+.barBottom {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 55px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+}
+
+.barBottomItem {
+  color: black;
+  font-weight: bold;
+  font-family: Arial;
+  text-decoration: none;
+  display: inline;
+  text-align: center;
+  padding: 80px;
+  margin-top: -55px;
+  font-size: 17px;
+}
+
+.titleOfWeb {
+  margin: -8px;
+  width: 100vw;
+  height: 100.2px;
+  background-color: lightblue;
+  display: inline-block;
+  text-align: center;
+}
